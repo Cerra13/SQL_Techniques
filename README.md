@@ -72,6 +72,8 @@ Extracting, Sorting, Limiting, Filtering Data, and Date Functions: <br/>
 <br />
 <br />
 
+<!--**********************Comment out the rest from here until the last dash-dashclosed bracket on line 216****************************************
+
 <h2>SQL Project 6</h2>
 We are getting ready to roll out a 1 yr 5.1% APY savings account promotion for our Checking customers who have been with us for at least 5 years. May you provide a list of these customers to Marketing by EOD so they can send mailers to these customers prior to the promotion kickoff that is scheduled for Monday?
 <br />
@@ -211,5 +213,5 @@ Joins: <br/>
 <br />
 
 
-
+-->
 </p>
