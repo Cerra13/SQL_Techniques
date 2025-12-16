@@ -16,7 +16,7 @@ In preparation for success planning, the AVP of Lending is reviewing the lending
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="203" alt="Image" src="https://github.com/user-attachments/assets/6890fef1-daa2-4d67-993e-a9b23dfb4a9f" />
+<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/f6fea7b1-40e6-4a3b-bf3c-218c29c7251a" />
 <br />
 <br />
 
@@ -29,7 +29,7 @@ The AVP of Lending would like to now see Personal Loans approved between $10K to
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="229" alt="Image" src="https://github.com/user-attachments/assets/8629967a-0a3b-47ae-bef9-822fced5d6ab" />
+<img width="229" height="116" alt="Image" src="https://github.com/user-attachments/assets/0c467e7d-34c2-4b3e-9e60-dade12ba3f20" />
 <br />
 <br />
 
@@ -42,7 +42,7 @@ The Manager’s Meetings have just concluded, and the Regional Director of Sales
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/f6b2a7ab-d522-4327-b306-0510a648f79c" />
+<img width="400" height="85" alt="Image" src="https://github.com/user-attachments/assets/fe48f149-f8e5-4093-bc9a-fc027ab289a6" />
 <br />
 <br />
 
@@ -55,7 +55,7 @@ It was brought to our attention that there were issues with accounts that were o
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="273" alt="Image" src="https://github.com/user-attachments/assets/2846b338-e025-475f-8ade-ac4fdb9c8a8a" />
+<img width="273" height="94" alt="Image" src="https://github.com/user-attachments/assets/fe4a2734-d5a5-42d5-aca1-c3532c7cb8ab" />
 <br />
 <br />
 
@@ -68,7 +68,7 @@ The Risk Management team needs a list of customers where their last transaction 
 ###
 <p align="center">
 Extracting, Sorting, Limiting, Filtering Data, and Date Functions: <br/>
-<img width="290" alt="Image" src="https://github.com/user-attachments/assets/17bda2e1-97cf-4c85-87bb-dac203609e0c" />
+<img width="290" height="94" alt="Image" src="https://github.com/user-attachments/assets/91f24f1d-88b3-4d59-8dd5-3df44e1174a3" />
 <br />
 <br />
 
@@ -83,6 +83,7 @@ Filtering Data, Date Functions, and Calculated Fields: <br/>
 <img width="373" alt="Image" src="https://github.com/user-attachments/assets/b2f6160d-e7bc-4889-880f-3779d8766898" />
 <br />
 <br />
+
 
 
 <h2>SQL Project 7</h2>
